@@ -1,2 +1,2 @@
 # DeepLearning_Tasks
-Tasks done step by step for each deep learning process
+Tasks done step by step for  deep learning 
