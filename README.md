@@ -75,6 +75,7 @@ What is machine learning?
        basic functions of following library
        numpy
        pandas
+       is included in basics folder
    
   Lesson 1: 
 
