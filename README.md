@@ -71,7 +71,11 @@ What is machine learning?
 
     Dangers I.e. it cannot touch birds, monkeys, should not fall in pit.etc. 
 
- 
+  Basics:
+       basic functions of following library
+       numpy
+       pandas
+   
   Lesson 1: 
 
     Let's start with most basic  
